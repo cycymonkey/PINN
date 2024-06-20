@@ -48,6 +48,3 @@ The training results, including solution and loss graphs, will be saved in the p
 ## Contributors
 
     Main Author: cycymonkey
-
-## Licence 
-
